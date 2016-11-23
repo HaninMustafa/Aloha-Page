@@ -2,48 +2,48 @@
 
 @font-face {
   font-family: 'playfair_display';
-  src: url('fonts/playfairdisplay-bold-webfont.eot');
-  src: url('fonts/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/playfairdisplay-bold-webfont.woff2') format('woff2'), url('fonts/playfairdisplay-bold-webfont.woff') format('woff'), url('fonts/playfairdisplay-bold-webfont.ttf') format('truetype'), url('fonts/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
+  src: url('../fonts/playfairdisplay-bold-webfont.eot');
+  src: url('../fonts/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-bold-webfont.woff2') format('woff2'), url('../fonts/playfairdisplay-bold-webfont.woff') format('woff'), url('../fonts/playfairdisplay-bold-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'playfair_display';
-  src: url('fonts/playfairdisplay-bolditalic-webfont.eot');
-  src: url('fonts/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/playfairdisplay-bolditalic-webfont.woff2') format('woff2'), url('fonts/playfairdisplay-bolditalic-webfont.woff') format('woff'), url('fonts/playfairdisplay-bolditalic-webfont.ttf') format('truetype'), url('fonts/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic') format('svg');
+  src: url('../fonts/playfairdisplay-bolditalic-webfont.eot');
+  src: url('../fonts/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-bolditalic-webfont.woff2') format('woff2'), url('../fonts/playfairdisplay-bolditalic-webfont.woff') format('woff'), url('../fonts/playfairdisplay-bolditalic-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic') format('svg');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'playfair_display';
-  src: url('fonts/playfairdisplay-italic-webfont.eot');
-  src: url('fonts/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/playfairdisplay-italic-webfont.woff2') format('woff2'), url('fonts/playfairdisplay-italic-webfont.woff') format('woff'), url('fonts/playfairdisplay-italic-webfont.ttf') format('truetype'), url('fonts/playfairdisplay-italic-webfont.svg#playfair_displayitalic') format('svg');
+  src: url('../fonts/playfairdisplay-italic-webfont.eot');
+  src: url('../fonts/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-italic-webfont.woff2') format('woff2'), url('../fonts/playfairdisplay-italic-webfont.woff') format('woff'), url('../fonts/playfairdisplay-italic-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-italic-webfont.svg#playfair_displayitalic') format('svg');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'playfair_display';
-  src: url('fonts/playfairdisplay-regular-webfont.eot');
-  src: url('fonts/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/playfairdisplay-regular-webfont.woff2') format('woff2'), url('fonts/playfairdisplay-regular-webfont.woff') format('woff'), url('fonts/playfairdisplay-regular-webfont.ttf') format('truetype'), url('fonts/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
+  src: url('../fonts/playfairdisplay-regular-webfont.eot');
+  src: url('../fonts/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-regular-webfont.woff2') format('woff2'), url('../fonts/playfairdisplay-regular-webfont.woff') format('woff'), url('../fonts/playfairdisplay-regular-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'raleway';
-  src: url('fonts/raleway-light-webfont.eot');
-  src: url('fonts/raleway-light-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/raleway-light-webfont.woff2') format('woff2'), url('fonts/raleway-light-webfont.woff') format('woff'), url('fonts/raleway-light-webfont.ttf') format('truetype'), url('fonts/raleway-light-webfont.svg#ralewaylight') format('svg');
+  src: url('../fonts/raleway-light-webfont.eot');
+  src: url('../fonts/raleway-light-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-light-webfont.woff2') format('woff2'), url('../fonts/raleway-light-webfont.woff') format('woff'), url('../fonts/raleway-light-webfont.ttf') format('truetype'), url('../fonts/raleway-light-webfont.svg#ralewaylight') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'raleway';
-  src: url('fonts/raleway-lightitalic-webfont.eot');
-  src: url('fonts/raleway-lightitalic-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/raleway-lightitalic-webfont.woff2') format('woff2'), url('fonts/raleway-lightitalic-webfont.woff') format('woff'), url('fonts/raleway-lightitalic-webfont.ttf') format('truetype'), url('fonts/raleway-lightitalic-webfont.svg#ralewaylight_italic') format('svg');
+  src: url('../fonts/raleway-lightitalic-webfont.eot');
+  src: url('../fonts/raleway-lightitalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-lightitalic-webfont.woff2') format('woff2'), url('../fonts/raleway-lightitalic-webfont.woff') format('woff'), url('fonts/raleway-lightitalic-webfont.ttf') format('truetype'), url('../fonts/raleway-lightitalic-webfont.svg#ralewaylight_italic') format('svg');
   font-weight: normal;
   font-style: italic;
   ;
@@ -51,16 +51,16 @@
 
 @font-face {
   font-family: 'raleway';
-  src: url('fonts/raleway-medium-webfont.eot');
-  src: url('fonts/raleway-medium-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/raleway-medium-webfont.woff2') format('woff2'), url('fonts/raleway-medium-webfont.woff') format('woff'), url('fonts/raleway-medium-webfont.ttf') format('truetype'), url('fonts/raleway-medium-webfont.svg#ralewaymedium') format('svg');
+  src: url('../fonts/raleway-medium-webfont.eot');
+  src: url('../fonts/raleway-medium-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-medium-webfont.woff2') format('woff2'), url('../fonts/raleway-medium-webfont.woff') format('woff'), url('../fonts/raleway-medium-webfont.ttf') format('truetype'), url('../fonts/raleway-medium-webfont.svg#ralewaymedium') format('svg');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'raleway';
-  src: url('fonts/raleway-mediumitalic-webfont.eot');
-  src: url('fonts/raleway-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/raleway-mediumitalic-webfont.woff2') format('woff2'), url('fonts/raleway-mediumitalic-webfont.woff') format('woff'), url('fonts/raleway-mediumitalic-webfont.ttf') format('truetype'), url('fonts/raleway-mediumitalic-webfont.svg#ralewaymedium_italic') format('svg');
+  src: url('../fonts/raleway-mediumitalic-webfont.eot');
+  src: url('../fonts/raleway-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway-mediumitalic-webfont.woff2') format('woff2'), url('../fonts/raleway-mediumitalic-webfont.woff') format('woff'), url('../fonts/raleway-mediumitalic-webfont.ttf') format('truetype'), url('../fonts/raleway-mediumitalic-webfont.svg#ralewaymedium_italic') format('svg');
   font-weight: bold;
   font-style: italic;
 }
@@ -196,7 +196,7 @@ a:hover {
 
 .banner {
   margin-top: 8.35rem;
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/banner-girl.png') no-repeat center 60px, url('images/flower-bkgd.jpg') repeat-x center top;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/banner-girl.png') no-repeat center 60px, url('../images/flower-bkgd.jpg') repeat-x center top;
   height: 400px;
   position: relative;
   background-size: cover, 150px 370px, cover;
@@ -271,14 +271,14 @@ a:hover {
 }
 
 .mens {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/mens-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/mens-category.jpg') no-repeat;
   background-size: cover;
   position: relative;
   height: 50vw;
 }
 
 .trends {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/trends-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/trends-category.jpg') no-repeat;
   background-size: cover;
   height: 50vw;
   border-left: 0;
@@ -286,7 +286,7 @@ a:hover {
 }
 
 .glasses {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/glasses-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/glasses-category.jpg') no-repeat;
   background-size: cover;
   height: 50vw;
   border-right: 0;
@@ -294,7 +294,7 @@ a:hover {
 }
 
 .sale {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/sale-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/sale-category.jpg') no-repeat;
   background-size: cover;
   height: 50vw;
   border-left: 0;
@@ -302,7 +302,7 @@ a:hover {
 }
 
 .bags {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/bags-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/bags-category.jpg') no-repeat;
   background-size: cover;
   height: 50vw;
   border-right: 0;
@@ -310,7 +310,7 @@ a:hover {
 }
 
 .womens {
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('images/womens-category.jpg') no-repeat;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url('../images/womens-category.jpg') no-repeat;
   background-size: cover;
   height: 50vw;
   border-left: 0;
@@ -381,7 +381,7 @@ a:hover {
 
 .sea-banner {
   display: block;
-  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), url('images/wave-bkgd.jpg') no-repeat center bottom;
+  background: linear-gradient( to bottom, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), url('../images/wave-bkgd.jpg') no-repeat center bottom;
   position: relative;
   margin-bottom: .25rem;
   height: 350px;
