@@ -346,8 +346,8 @@ a:hover {
 .productwidth {
   width: 100%;
   text-align: center;
+  padding: 3rem 2rem;
   line-height: 1.8;
-  padding: 5rem 2rem;
 }
 
 .main-carousel {
@@ -500,6 +500,17 @@ footer {
 }
 
 
+/* flickity design*/
+
+.flickity-prev-next-button {
+  display: none
+}
+
+.is-selected {
+  padding-left: 0;
+}
+
+
 /*Tablet View**********************************/
 
 @media all and (min-width: 600px) {
@@ -546,7 +557,8 @@ footer {
   .square-product.bags {
     border-right: 4px solid white;
   }
-  .square-product.trends, .rectangular-product.womens {
+  .square-product.trends,
+  .rectangular-product.womens {
     border-left: 4px solid white;
   }
   /***********************************/

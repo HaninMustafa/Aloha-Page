@@ -4,6 +4,9 @@ $(function() {
       // options
       cellAlign: 'left',
       contain: true,
+			autoPlay: true,
+
+
     });
     });
 /*******************smooth scrolling*******************/
