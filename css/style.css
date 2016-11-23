@@ -546,7 +546,7 @@ footer {
   .square-product.bags {
     border-right: 4px solid white;
   }
-  .square-product.trends .rectangular-product.womens {
+  .square-product.trends, .rectangular-product.womens {
     border-left: 4px solid white;
   }
   /***********************************/
