@@ -1,4 +1,4 @@
-(function ($) {
+$(function() {
   $(function() {
     $('.main-carousel').flickity({
       // options
@@ -50,4 +50,4 @@
          $('#counter').show();
        });
 
-  }(jQuery));
+})
