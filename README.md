@@ -1,5 +1,7 @@
 ##Aloha Shop Homepage
 
+![Aloha Site Image](./images/Screen-Shot-Aloha.png)
+
 ###About
 This is a project website given by Red Academy. This is the second week project that have more complex tools we used. Aloha is a clothing line that allows the costumers to bay clothes online.
 ###Tools and Methods Used
