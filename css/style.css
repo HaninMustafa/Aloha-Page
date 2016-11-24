@@ -340,7 +340,6 @@ a:hover {
 .container {
   margin: 0 auto;
   padding: 0 2%;
-  width: 100%;
 }
 
 .productwidth {
@@ -539,6 +538,13 @@ footer {
     border-top: 0;
     padding: 0;
   }
+  .top-header {
+    width:100%;
+  }
+  .container {
+      /*width: 600px;*/
+
+  }
   /***********************************/
   .spring {
     font-size: 3.5rem;
@@ -604,5 +610,12 @@ footer {
   }
   .webtext {
     text-align: center;
+  }
+  .top-header {
+    width:100%;
+  }
+  .container {
+      width: 1120px;
+
   }
 }
